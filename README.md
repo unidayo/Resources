@@ -1,2 +1,2 @@
-# Resourses
-Resourses Hosting
+# Resources
+Hosting Resources
